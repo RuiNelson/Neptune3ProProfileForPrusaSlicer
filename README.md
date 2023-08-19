@@ -8,7 +8,7 @@ The profile was tuned with the following priorities:
 2. Keep the same printing quality as the Elegoo Cura profile
 3. Keep the same printing speed as a Prusa i3 MK3
 
-To tune this profile I examined many of my prints and did a extruder flow test and determined that 12 mm3/s was the highest value it could achieve without underextrusion for my PLA at 210ºC.
+To tune this profile I examined many of my prints and did a extruder flow test and determined that 12 mm³/s was the highest value it could achieve without underextrusion for my PLA at 210ºC.
 
 It should print a 0.2mm layer height benchy with 20% rectilinear infill and 2 walls in about one hour.
 
