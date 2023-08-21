@@ -1,6 +1,10 @@
 # Elegoo Neptune 3 Pro profiles for use with PrusaSlicer
 
-I'm sharing my profile for using my stock Elegoo Neptune 3 Pro with PrusaSlicer.
+I'm sharing my profile for using my stock Elegoo Neptune 3 Pro with PrusaSlicer. This profile is compatible with the following machines:
+
+* Elegoo Neptune 3 Pro
+* Elegoo Neptune 3 Plus
+* Elegoo Neptune 3 Max
 
 The profile was tuned with the following priorities:
 
