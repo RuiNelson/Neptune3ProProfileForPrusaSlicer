@@ -24,7 +24,7 @@ It also aims to have a very nice starting/ending Gcode.
 1. Open PrusaSlicer
 2. On the menu, click **Help** > **Show Configuration Folder**
 3. Open the `vendor` subfolder
-4. Copy/Replace your `Elegoo.ini` and `Elegoo` folder with my version
-5. If you do configuration updates from Prusa, you might need to replace again the files/folders. You can disable configuration updates in PrusaSlicer if you want.
+4. Copy my `Elegoo.ini` file and `Elegoo` folder to there, replacing existing files if necessary.
+5. If you do configuration updates from PrusaSlicer, you might need to replace again the files/folders again. (There's an option in PrusaSlicer settings to disable automatic configuration updates)
 
 Optional: here on GitHub, click the **Watch** button then **Custom**  then **Releases** to be notified of configuration updates.
