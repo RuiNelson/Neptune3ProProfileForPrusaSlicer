@@ -27,4 +27,4 @@ It also aims to have a very nice starting/ending Gcode.
 4. Copy my `Elegoo.ini` file and `Elegoo` folder to there, replacing existing files if necessary.
 5. If you do configuration updates from PrusaSlicer, you might need to replace again the files/folders again. (There's an option in PrusaSlicer settings to disable automatic configuration updates)
 
-Optional: here on GitHub, click the **Watch** button then **Custom**  then **Releases** to be notified of configuration updates.
+Optional: here on GitHub, click the **Watch** button then **Custom** then **Releases** to be notified of configuration updates.
