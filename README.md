@@ -25,18 +25,16 @@ I'm assuming you have:
 * The latest [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer/releases) installed
 * You have configured it with the Neptune 3 Pro/Plus/Max with the stock settings
 
-1. Open PrusaSlicer
+1. Open **PrusaSlicer** on the **Help** menu, then **Show Configuration Folder**.
 
-2. Click on the **Help** menu, then **Show Configuration Folder**.
-
-3. Quit PrusaSlicer and go back to the file manager.
+2. Quit PrusaSlicer and go back to the **file manager**.
  
-4. Open the `vendor` subfolder.
+3. Open the `vendor` subfolder.
 
-6. Download the lastest [release](https://github.com/RuiNelson/Neptune3ProProfileForPrusaSlicer/releases) from GitHub.
+4. Download the lastest [release](https://github.com/RuiNelson/Neptune3ProProfileForPrusaSlicer/releases) from GitHub.
 
-7. Unzip my files to your `vendor` subfolder. If necessary, replace the files there.
+5. Unzip my files to your `vendor` subfolder. If necessary, replace the files there.
 
-8. Finished! Reopen PursaSlicer to get the new configuration loaded, you should see something like this for the bed of your printer:
+6. Finished! Reopen PursaSlicer to get the new configuration loaded, you should see something like this for the bed of your printer:
 
 ![Screenshot](docs/screenshot.png)
