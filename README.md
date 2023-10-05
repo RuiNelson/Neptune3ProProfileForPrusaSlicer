@@ -20,11 +20,22 @@ It also aims to have a very nice starting/ending Gcode.
 
 # How to install
 
-0. Download the lastest [release](https://github.com/RuiNelson/Neptune3ProProfileForPrusaSlicer/releases) from GitHub.
-1. Open PrusaSlicer
-2. On the menu, click **Help** > **Show Configuration Folder**
-3. Open the `vendor` subfolder
-4. Copy my `Elegoo.ini` file and `Elegoo` folder to there, replacing existing files if necessary.
-5. If you do configuration updates from PrusaSlicer, you might need to replace again the files/folders again. (There's an option in PrusaSlicer settings to disable automatic configuration updates)
+I'm assuming you have:
 
-Optional: here on GitHub, click the **Watch** button then **Custom** then **Releases** to be notified of configuration updates.
+* The latest [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer/releases) installed
+* You have configured it with the Neptune 3 Pro/Plus/Max with the stock settings
+
+1. Open PrusaSlicer
+
+2. Click on the **Help** menu, then **Show Configuration Folder**.
+
+3. Quit PrusaSlicer and go back to the file manager.
+ 
+4. Open the `vendor` subfolder.
+
+6. Download the lastest [release](https://github.com/RuiNelson/Neptune3ProProfileForPrusaSlicer/releases) from GitHub.
+
+7. Unzip my files to your `vendor` subfolder. If necessary, replace the files there.
+
+8. Finished! Reopen PursaSlicer to get the new configuration loaded, you should see something like this for the bed of your printer:
+
