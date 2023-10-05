@@ -39,3 +39,4 @@ I'm assuming you have:
 
 8. Finished! Reopen PursaSlicer to get the new configuration loaded, you should see something like this for the bed of your printer:
 
+![Screenshot](docs/screenshot.png)
